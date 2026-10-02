@@ -1,0 +1,21 @@
+:root {
+    --bg-color: #151a17;
+    --nav-color: green;
+    --text-color: white;
+    
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg-color);
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+
+.navigation {
+
+    background-color: var(--nav-color);
+    padding: 8px;
+    
+    
+}
